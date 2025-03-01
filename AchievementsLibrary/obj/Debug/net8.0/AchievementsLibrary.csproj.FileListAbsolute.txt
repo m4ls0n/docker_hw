@@ -1,0 +1,11 @@
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/bin/Debug/net8.0/AchievementsLibrary.deps.json
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/bin/Debug/net8.0/AchievementsLibrary.dll
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/bin/Debug/net8.0/AchievementsLibrary.pdb
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/obj/Debug/net8.0/AchievementsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/obj/Debug/net8.0/AchievementsLibrary.AssemblyInfoInputs.cache
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/obj/Debug/net8.0/AchievementsLibrary.AssemblyInfo.cs
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/obj/Debug/net8.0/AchievementsLibrary.csproj.CoreCompileInputs.cache
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/obj/Debug/net8.0/AchievementsLibrary.dll
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/obj/Debug/net8.0/refint/AchievementsLibrary.dll
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/obj/Debug/net8.0/AchievementsLibrary.pdb
+/Users/malandr1/Desktop/c#/MalapuraAA_BSE247_Project/AchievementsLibrary/obj/Debug/net8.0/ref/AchievementsLibrary.dll

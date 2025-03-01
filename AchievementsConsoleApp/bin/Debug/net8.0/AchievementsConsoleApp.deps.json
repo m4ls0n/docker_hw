@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AchievementsConsoleApp/1.0.0": {
+        "dependencies": {
+          "AchievementsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AchievementsConsoleApp.dll": {}
+        }
+      },
+      "AchievementsLibrary/1.0.0": {
+        "runtime": {
+          "AchievementsLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AchievementsConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AchievementsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
